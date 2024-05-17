@@ -311,3 +311,7 @@ endmodule
 # Output
 
 ![image](https://github.com/RESMIRNAIR/ELEVATOR_CONTROL/assets/154305926/6379ab0d-b73f-4740-bdda-45263b28f120)
+
+# Result
+
+Thus the verilog program for ELEVATOR_CONTROL has been simulated and verified successfully.
